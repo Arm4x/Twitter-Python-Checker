@@ -50,7 +50,7 @@ while i < len(keyword):
   i = i + 1
 print
 
-#Stariamo il while che controllerà le keyword
+#Startiamo il while che controllerà le keyword
 i = 0
 used = 0
 #Selezioniamo la prima keyword della lista
